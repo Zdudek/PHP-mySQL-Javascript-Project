@@ -1,0 +1,47 @@
+/* 
+    Created on : Apr 12, 2014, 11:07:17 AM
+    Author     : Mheyner
+*/
+body {
+    background-color: #2aabd2;
+}
+.navbar-brand {
+    padding: 1px;
+}
+div.navbar.navbar-inverse.navbar-fixed-top {
+    background-color: #e38d13;
+    border-bottom: 2px #d43f3a solid;
+    height: 100px;
+}
+.navbar-inverse .navbar-nav>li>a {
+   color: #fff;
+   font-size: 20px;
+}
+.bottom-nav {
+    background-color: #e38d13;
+    -moz-border-radius-bottomright: 50px;
+    border-bottom-right-radius: 50px;
+    -moz-border-radius-bottomleft: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom: 2px #d43f3a solid;
+    border-left:2px #d43f3a solid;
+    border-right:2px #d43f3a solid; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: auto;
+}
+.bottom-nav.checkbox-inline {
+    margin-left: auto;
+    margin-right: auto;
+}
+img.img-responsive {
+    float: left;
+    position: relative;
+    left: 155px;
+    padding: 5px
+}
+.butt {
+    text-align: center;
+}
